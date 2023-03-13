@@ -1,5 +1,7 @@
 # Ubuntu
-关于 Ubuntu 上的一些知识总结
+- [filebrowser](./filebrowser.md)
+- [python](./python.md)
+- [ssh](./ssh.md)
 
 # Why Ubuntu?
 Ubuntu 大概是桌面做的最好的 Linux，并且也具有服务器发行版。不喜欢 CeneOS，桌面版简直不能看，从 yum 到 dnf 没有 apt 的连贯性。
