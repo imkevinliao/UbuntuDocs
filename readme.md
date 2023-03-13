@@ -13,3 +13,6 @@ Ubuntu 大概是桌面做的最好的 Linux，并且也具有服务器发行版�
 windows 历史包袱太重了，为了兼容性，很多老旧的东西都保留了，是优点也是缺点，恰好我不喜欢这种。
 
 Linux 会让我清楚的知道我自己在做什么 （可恶的windows注册表）
+
+# 其他仓库
+<https://github.com/inoeud/Linux_learning>
