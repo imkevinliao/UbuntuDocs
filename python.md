@@ -1,12 +1,15 @@
-# 关于切换 python3 版本
-个人实际使用中发现切python3默认版本后，会存在一系列奇怪的问题。因此，个人建议安装更新的python版本后不设置为默认系统环境。使用虚拟环境的方式进行使用。
+# 关于切换 Python3 版本
+
+个人实际使用中发现切 Python3 默认版本后，会存在一系列奇怪的问题。因此，个人建议安装更新的 Python 版本后不设置为默认系统环境。使用虚拟环境的方式进行使用。
+
 ```
 python3.10 -m venv venv310
 source venv310/bin/activate
 ```
+
 # 在 Ubuntu 中安装 Python 3.10
 
-补充知识：Linux 中我们使用包管理工具安装软件（apt dnf yum）,这些包管理工具都是有源，我们下载软件时候会从指定网站去查找软件并下载，但是有些时候某些软件我们不能从Linux发行版本的默认源中找到，故而需要添加源，告诉包管理工具从这里面查找 `sudo add-apt-repository ppa:deadsnakes/ppa`
+补充知识：Linux 中我们使用包管理工具安装软件（apt dnf yum），这些包管理工具都是有源，我们下载软件时候会从指定网站去查找软件并下载，但是有些时候某些软件我们不能从Linux发行版本的默认源中找到，故而需要添加源，告诉包管理工具从这里面查找 `sudo add-apt-repository ppa:deadsnakes/ppa`
 
 1. sudo add-apt-repository ppa:deadsnakes/ppa
 2. sudo apt update
@@ -14,7 +17,7 @@ source venv310/bin/activate
 
 # 使用 update-alternatives 切换版本
 
-先查看旧的 python 版本
+先查看旧的 Python 版本
 
 python3 --version
 
@@ -115,6 +118,7 @@ sudo rm -rf /usr/bin/py3
 关闭虚拟环境 deactivate
 
 激活虚拟环境 source 后跟 activate 的绝对或者相对路径
+
 # pip3 命令找不到
 ```
 示例(可能存在错误)：sudo apt install python3-pip
@@ -122,5 +126,3 @@ sudo rm -rf /usr/bin/py3
 python3-pip is already the newest version (9.0.1-2.3~ubuntu1.18.04.8)
 ```
 curl -sS https://bootstrap.pypa.io/get-pip.py | python3.10
-
-
