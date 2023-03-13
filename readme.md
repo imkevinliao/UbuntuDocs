@@ -1,5 +1,5 @@
 # Ubuntu
-- [filebrowser](./filebrowser.md) -基于Go 语言编写的Web 的文件管理器
+- [filebrowser](./filebrowser.md) -基于Go 语言编写的Web 的文件管理器（部署）
 - [python](./python.md) -Python的一些配置
 - [ssh](./ssh.md)
 
