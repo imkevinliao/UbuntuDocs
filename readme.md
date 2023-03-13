@@ -18,3 +18,4 @@ Linux 会让我清楚的知道我自己在做什么 （可恶的windows注册表
 
 # 其他仓库
 <https://github.com/inoeud/Linux_learning>
+<https://github.com/Willjay5991/LinuxTutorial4ML>
