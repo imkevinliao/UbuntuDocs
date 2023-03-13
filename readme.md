@@ -1,7 +1,7 @@
 # Ubuntu
-- [filebrowser](./filebrowser.md) -基于Go 语言编写的Web 的文件管理器（部署）
-- [python](./python.md) -Python的一些配置
-- [ssh](./ssh.md)
+- [filebrowser](./filebrowser.md) - 基于 Go 语言编写的 Web 的文件管理器（部署）
+- [python](./python.md) - Python 的一些配置
+- [ssh](./ssh.md) - 使用 SSH 远程登录
 
 # Why Ubuntu?
 Ubuntu 大概是桌面做的最好的 Linux，并且也具有服务器发行版。不喜欢 CentOS，桌面版简直不能看，从 yum 到 dnf 没有 apt 的连贯性。
