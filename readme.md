@@ -19,3 +19,4 @@ Linux 会让我清楚的知道我自己在做什么 （可恶的 Windows 注册�
 # Other Repository
 - <https://github.com/inoeud/Linux_learning>
 - <https://github.com/Willjay5991/LinuxTutorial4ML>
+- <https://github.com/liquanzhou/ops_doc> 运维手册
