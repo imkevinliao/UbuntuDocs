@@ -16,6 +16,9 @@ Windows 历史包袱太重了，为了兼容性，很多老旧的东西都保留
 
 Linux 会让我清楚的知道我自己在做什么 （可恶的 Windows 注册表）
 
+# Questions
+Samba客户端不能修改文件的解决办法 <https://blog.csdn.net/kris_fei/article/details/53186327>
+
 # Other Repository
 - <https://github.com/inoeud/Linux_learning>
 - <https://github.com/Willjay5991/LinuxTutorial4ML>
