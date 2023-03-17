@@ -23,3 +23,4 @@ Samba客户端不能修改文件的解决办法 <https://blog.csdn.net/kris_fei/
 - <https://github.com/inoeud/Linux_learning>
 - <https://github.com/Willjay5991/LinuxTutorial4ML>
 - <https://github.com/liquanzhou/ops_doc> 运维手册
+- <https://github.com/dunwu/linux-tutorial> 极好的 awesome
