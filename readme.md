@@ -4,9 +4,7 @@
 - [ssh](./ssh.md) - SSH 远程登录[免密失败]
 
 # Why Ubuntu?
-Ubuntu 大概是桌面做的最好的 Linux，并且也具有服务器发行版。不喜欢 CentOS，桌面版简直不能看，从 yum 到 dnf 没有 apt 的连贯性。
-
-都是 Linux 大同小异，以前两个主流的发行版都使用过，后来发现差别还是有的，实际需要的时候具体去查一下就好了。
+Ubuntu 大概是最好的 Linux 桌面，并且同时具备不错的服务器发行版。
 
 一直有想过把 PC 装 Ubuntu，虽然朋友说在 VMware 里装 Ubuntu 其实也是一样的。
 
