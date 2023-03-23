@@ -6,17 +6,13 @@
 # Why Ubuntu?
 Ubuntu 大概是最好的 Linux 桌面，并且同时具备不错的服务器发行版。
 
-一直有想过把 PC 装 Ubuntu，虽然朋友说在 VMware 里装 Ubuntu 其实也是一样的。
+两个主流的 Linux 发型版本都体验过（CentOS Ubuntu），CentOS 包管理工具从 yum 到 dnf 不具备连贯性，还是喜欢 apt 的始终如一。
 
-在虚拟机里体验 Ubuntu 感觉就是还行，但是有些不习惯，毕竟 Windows 用久了。使用 Ubuntu 必须要具备一定的自主解决问题的能力，很多问题需要自己去查找搜索解决，不过在 Linux 最快乐的事情必然是开发者了，因为服务就部署在 Linux 上，VSCode + Python 插件，还挺好用的（比 Windows 上好用）
+Windows 历史包袱太重，为了兼容性，很多老旧的东西都保留了，是优点也是缺点，也是因为历史原因，不区分大小写真的很致命，以及落后的思想，万恶的注册表。
 
-Windows 历史包袱太重了，为了兼容性，很多老旧的东西都保留了，是优点也是缺点，恰好我不喜欢这种。
-
-Linux 会让我清楚的知道我自己在做什么 （可恶的 Windows 注册表）
-
+Linux 一切皆文件的思想太酷了
 # Questions
 Samba客户端不能修改文件的解决办法 <https://blog.csdn.net/kris_fei/article/details/53186327>
-
 # Other Repository
 - <https://github.com/inoeud/Linux_learning>
 - <https://github.com/Willjay5991/LinuxTutorial4ML>
