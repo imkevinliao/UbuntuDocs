@@ -6,7 +6,7 @@
 # Why Ubuntu?
 Ubuntu 大概是最好的 Linux 桌面，并且同时具备不错的服务器发行版。
 
-两个主流的 Linux 发型版本都体验过（CentOS Ubuntu），CentOS 包管理工具从 yum 到 dnf 不具备连贯性，还是喜欢 apt 的始终如一。
+两个主流的 Linux 发型版本都体验过（RedHat Debian），CentOS 包管理工具从 yum 到 dnf 不具备连贯性，还是喜欢 apt 的始终如一。
 
 Windows 历史包袱太重，为了兼容性，很多老旧的东西都保留了，是优点也是缺点，也是因为历史原因，不区分大小写真的很致命，以及落后的思想，万恶的注册表。
 
