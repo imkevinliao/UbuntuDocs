@@ -2,6 +2,7 @@
 - [filebrowser](./markdown/filebrowser.md) - 基于 Go 语言编写的 Web 的文件管理器（部署）
 - [python](./markdown/python.md) - Python 部署配置
 - [ssh](./markdown/ssh.md) - SSH 远程登录[免密失败]
+- [tips](./markdown/tips.md) 列出由人创建的用户 删除tar解压的文件
 
 # Ubuntu-Shell
 - [python + subprocess](./shell/shell.py)
