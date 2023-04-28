@@ -18,6 +18,7 @@ Linux 一切皆文件的思想太酷了
 # Questions
 Samba客户端不能修改文件的解决办法 <https://blog.csdn.net/kris_fei/article/details/53186327>
 # Other Repository
+- <https://github.com/acmesh-official/acme.sh> SSL证书签发脚本
 - <https://github.com/inoeud/Linux_learning>
 - <https://github.com/Willjay5991/LinuxTutorial4ML>
 - <https://github.com/liquanzhou/ops_doc> 运维手册
