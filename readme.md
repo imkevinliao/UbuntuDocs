@@ -1,7 +1,7 @@
 # Ubuntu
-- [filebrowser](./filebrowser.md) - 基于 Go 语言编写的 Web 的文件管理器（部署）
-- [python](./python.md) - Python 部署配置
-- [ssh](./ssh.md) - SSH 远程登录[免密失败]
+- [filebrowser](./markdown/filebrowser.md) - 基于 Go 语言编写的 Web 的文件管理器（部署）
+- [python](./markdown/python.md) - Python 部署配置
+- [ssh](./markdown/ssh.md) - SSH 远程登录[免密失败]
 
 # Why Ubuntu?
 Ubuntu 大概是最好的 Linux 桌面，并且同时具备不错的服务器发行版。
