@@ -18,6 +18,8 @@ Windows 历史包袱太重，为了兼容性，很多老旧的东西都保留了
 Linux 一切皆文件的理念太酷了
 # Questions
 Samba客户端不能修改文件的解决办法 <https://blog.csdn.net/kris_fei/article/details/53186327>
+
+Ubuntu安全问题<https://imkevinliao.github.io/post/ubuntu_safe/>
 # Other Repository
 - <https://github.com/acmesh-official/acme.sh> SSL证书签发脚本
 - <https://github.com/inoeud/Linux_learning>
