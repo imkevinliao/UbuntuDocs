@@ -20,3 +20,8 @@ Ubuntu安全问题 <https://imkevinliao.github.io/post/ubuntu_safe/>
 - <https://github.com/Willjay5991/LinuxTutorial4ML>
 - <https://github.com/liquanzhou/ops_doc> 运维手册
 - <https://github.com/dunwu/linux-tutorial> [最棒的 Linux 教程]
+# 权限
+rwx: 读 写 执行 （4,2,1) (2^2,2^1,2^0)
+ugo: 用户 群组 其他 （user group other）
+
+755 = 用户拥有读写执行 群组和其他人拥有读加执行 7=4+2+1 5=4+1
