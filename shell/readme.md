@@ -1,4 +1,4 @@
-# 这是个什么？
+# 这是个什么？-> 尝试失败
 我的愿景是希望通过Python取代传统的Shell脚本，我承认Shell很优秀，但是它晦涩难以理解的写法让我很不适应，现代编程风格与Shell格格不入（至少我这么认为）
 
 在Linux上我经常使用一些别人的安装脚本，例如LNMP（网站服务器环境搭建脚本），V2ray SSR（科学上网搭建脚本），BBR加速脚本（提高服务器网络速度），
@@ -15,9 +15,5 @@
 
 愿景可以改为：构建易于理解维护的Linux脚本
 
-# 为什么是Python？
-Python存在于所有Linux发行版本中，非常泛用
-# 为什么是Ubuntu？
-Ubuntu既有服务器版本也有最好的Linux桌面版本，偶尔我也喜欢用Ubuntu桌面，我承认Windows桌面做的很优秀，可我喜欢干净的命令行风格，以及Linux的设计理念
 # Others
 - <https://github.com/DingGuodong/LinuxBashShellScriptForOps> python for linux
