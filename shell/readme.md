@@ -17,3 +17,4 @@
 
 # Others
 - <https://github.com/DingGuodong/LinuxBashShellScriptForOps> python for linux
+- <https://github.com/DingGuodong/LinuxBashShellScriptForOps/tree/python3>
