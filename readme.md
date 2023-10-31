@@ -3,6 +3,7 @@
 - [python](./markdown/python.md) - Python 部署配置（有关Python的一切）
 - [ssh](./markdown/ssh.md) - SSH 远程登录[免密失败]
 - [tips](./markdown/tips.md) 列出由人创建的用户 删除tar解压的文件
+- <https://daemon369.github.io/linux/2018/01/06/01-get-disks-info-in-linux> [linux 查看硬盘信息]
 
 # Ubuntu-Shell
 - [python + subprocess](./shell/shell.py)
