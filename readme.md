@@ -19,6 +19,7 @@
 - [python + subprocess](./shell/shell.py)
 # 权限
 rwx: 读 写 执行 （4,2,1) (2^2,2^1,2^0)
+
 ugo: 用户 群组 其他 （user group other）
 
 755 = 用户拥有读写执行 群组和其他人拥有读加执行 7=4+2+1 5=4+1
