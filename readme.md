@@ -5,7 +5,7 @@
 - [tips 列出由人创建的用户 删除tar解压的文件](./markdown/tips.md)
 - <https://daemon369.github.io/linux/2018/01/06/01-get-disks-info-in-linux> [linux 查看硬盘信息]
 - <https://blog.csdn.net/RHWRH/article/details/123926118> [shell 读取 cpu 占用率]
-- <https://blog.csdn.net/kris_fei/article/details/53186327> [Samba客户端不能修改文件的解决办法 ]
+- <https://blog.csdn.net/kris_fei/article/details/53186327> [Samba 客户端不能修改文件的解决办法 ]
 - <https://imkevinliao.github.io/post/ubuntu_safe/> [Ubuntu 安全问题]
 - <https://imkevinliao.github.io/post/samba/> [samba 搭建]
 
