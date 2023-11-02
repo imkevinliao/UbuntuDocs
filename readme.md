@@ -1,11 +1,12 @@
 # Ubuntu-Docs
-- [filebrowser 基于 Go 语言编写的 Web 的文件管理器（部署）](./markdown/filebrowser.md)
-- [Python 部署配置（有关Python的一切）](./markdown/python.md)
-- [SSH 远程登录（免密失败）](./markdown/ssh.md)
-- [tips 列出由人创建的用户 删除tar解压的文件](./markdown/tips.md)
-- <https://daemon369.github.io/linux/2018/01/06/01-get-disks-info-in-linux> [linux 查看硬盘信息]
+- [FileBrowser 部署](./markdown/filebrowser.md)
+- [Python 配置](./markdown/python.md)
+- [ssh 登录（免密失败）](./markdown/ssh.md)
+- [列出由人创建的用户, 删除 tar 解压文件](./markdown/tips.md)
+
+- <https://daemon369.github.io/linux/2018/01/06/01-get-disks-info-in-linux> [查看硬盘信息]
 - <https://blog.csdn.net/RHWRH/article/details/123926118> [shell 读取 cpu 占用率]
-- <https://blog.csdn.net/kris_fei/article/details/53186327> [Samba 客户端不能修改文件的解决办法 ]
+- <https://blog.csdn.net/kris_fei/article/details/53186327> [Samba 不能修改文件问题]
 - <https://imkevinliao.github.io/post/ubuntu_safe/> [Ubuntu 安全问题]
 - <https://imkevinliao.github.io/post/samba/> [samba 搭建]
 
