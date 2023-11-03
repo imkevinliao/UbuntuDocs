@@ -12,11 +12,12 @@
 - <https://imkevinliao.github.io/post/samba/> [samba 搭建]
 
 # 相关仓库
+- <https://github.com/dunwu/linux-tutorial> [Linux 教程 非常推荐]
 - <https://github.com/acmesh-official/acme.sh> SSL证书签发脚本
 - <https://github.com/inoeud/Linux_learning>
 - <https://github.com/Willjay5991/LinuxTutorial4ML>
 - <https://github.com/liquanzhou/ops_doc> 运维手册
-- <https://github.com/dunwu/linux-tutorial> [最棒的 Linux 教程]
+
 
 # Ubuntu-Shell
 - [python + subprocess](./shell/shell.py)
