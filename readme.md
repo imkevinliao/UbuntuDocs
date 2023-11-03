@@ -28,3 +28,4 @@ ugo: 用户 群组 其他 （user group other）
 755 = 用户拥有读写执行 群组和其他人拥有读加执行 7=4+2+1 5=4+1
 # 每天一个 Linux 命令
 - <https://www.cnblogs.com/architectforest/p/12851043.html> [fallocate]
+- <https://blog.51cto.com/u_12853553/5896416> [crontab 需要开启 cron log 才能看到任务执行记录]
