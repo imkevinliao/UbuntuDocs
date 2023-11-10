@@ -17,6 +17,7 @@
 - <https://github.com/inoeud/Linux_learning>
 - <https://github.com/Willjay5991/LinuxTutorial4ML>
 - <https://github.com/liquanzhou/ops_doc> 运维手册
+- <https://github.com/jaywcjlove/linux-command> [linux 命令指导]
 
 
 # Ubuntu-Shell
