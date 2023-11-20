@@ -18,6 +18,7 @@
 - <https://github.com/Willjay5991/LinuxTutorial4ML>
 - <https://github.com/liquanzhou/ops_doc> 运维手册
 - <https://github.com/jaywcjlove/linux-command> [linux 命令指导]
+- <https://github.com/me115/linuxtools_rst> [linux 教程 实例方式]
 
 
 # Ubuntu-Shell
