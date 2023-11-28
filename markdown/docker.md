@@ -4,8 +4,12 @@
 停止所有 docker 容器
 docker kill $(docker ps -a -q)
 docker stop $(docker ps -a -q)
-删除所有停止运行的容器
+删除所有容器
 docker rm $(docker ps -a -q)
+删除所有镜像
+docker rmi $(docker images -q)
+停止docker服务
+systemctl stop docker
 ```
 基本操作
 ```
