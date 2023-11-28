@@ -10,6 +10,10 @@ docker rm $(docker ps -a -q)
 docker rmi $(docker images -q)
 停止docker服务
 systemctl stop docker
+无法停止：
+Warning: Stopping docker.service, but it can still be activated by: docker.socket
+systemctl stop docker.socket
+systemctl stop docker.service
 ```
 基本操作
 ```
