@@ -21,3 +21,4 @@ systemctl stop docker.service
 docker ps -a
 docker start stop restart + id
 ```
+1. docker-compose up -d
