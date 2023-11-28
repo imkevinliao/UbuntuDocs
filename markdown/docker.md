@@ -1,0 +1,15 @@
+# docker 快速上手
+-q 列出容器 id 而不是容器的所有信息
+```
+停止所有 docker 容器
+docker kill $(docker ps -a -q)
+docker stop $(docker ps -a -q)
+删除所有停止运行的容器
+docker rm $(docker ps -a -q)
+```
+基本操作
+```
+列出所有容器 第一行即 id
+docker ps -a
+docker start stop restart + id
+```
