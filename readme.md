@@ -1,10 +1,11 @@
 # Ubuntu-Docs
+- [git](./markdown/git.md)
 - [Docker](./markdown/docker.md)
 - [FileBrowser 部署](./markdown/filebrowser.md)
 - [Python 配置](./markdown/python.md)
 - [ssh 登录（免密失败）](./markdown/ssh.md)
 - [列出由人创建的用户, 删除 tar 解压文件](./markdown/tips.md)
-- [git 服务器搭建](./markdown/git_bare.md)
+
 
 - <https://daemon369.github.io/linux/2018/01/06/01-get-disks-info-in-linux> [查看硬盘信息]
 - <https://blog.csdn.net/RHWRH/article/details/123926118> [shell 读取 cpu 占用率]
