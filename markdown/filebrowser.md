@@ -141,8 +141,19 @@ filebrowser -c config.json
 ```
 
 # https 域名问题
-这个问题涉及到另外的部分，ssl证书这块对于很多小白而言就很麻烦，还需要域名什么的，如果是完全不了解的人实在是太困难了，个人始终认为作为工具，做好该做的事情就足够了。对于爱折腾的人来说，这里不需要我介绍，对于不爱折腾的人来说，别折磨自己。
+File Browser 2.0 起开始内建 HTTPS 支持，只需要配置 SSL 证书即可。
 
+配置 SSL：filebrowser -d /etc/filebrowser.db config set --cert example.com.crt --key example.com.key
+
+example.com.crt和example.com.key分别是 SSL 证书和密钥路径，根据自身情况进行更改
+
+取消 SSL：filebrowser -d /etc/filebrowser.db config set --cert "" --key ""
+
+注意：配置完 SSL 后，只可以使用 HTTPS 访问，不可以使用 HTTP。
+
+```
+--cert /root/.acme.sh/***/***.cer --key /root/.acme.sh/***/***.key
+```
 # 官方文档的问题
 刚开始接触filebrowser的时候看不懂那些命令，因为尝试执行的时候报错，后面渐渐就明白了，参看添加用户的命令，应该有助于理解官方文档中的命令该怎么写。
 
