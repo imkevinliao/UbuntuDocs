@@ -13,7 +13,7 @@ curl -fsSL https://raw.githubusercontent.com/filebrowser/get/master/get.sh | bas
 ```
 sudo filebrowser -d /etc/filebrowser.db config init
 sudo filebrowser -d /etc/filebrowser.db config set --address 0.0.0.0
-sudo filebrowser -d /etc/filebrowser.db config set --port 8080
+sudo filebrowser -d /etc/filebrowser.db config set --port 8888
 ```
 
 此时已经可以使用了：filebrowser -d /etc/filebrowser.db （但请先不要使用，所有对filebrowser.db的修改都需要先关闭服务，所以这里请不要启动服务!!!）
