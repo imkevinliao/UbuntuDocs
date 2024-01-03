@@ -15,6 +15,7 @@
 - <https://imkevinliao.github.io/post/samba/> [samba 搭建]
 - <https://www.cnblogs.com/architectforest/p/12851043.html> [fallocate]
 - <https://blog.51cto.com/u_12853553/5896416> [crontab 需要开启 cron log 才能看到任务执行记录]
+- <https://www.51cto.com/article/604689.html> [sudo 提权]
 # Github 相关仓库
 - <https://github.com/dunwu/linux-tutorial> [Linux 教程 非常推荐]
 - <https://github.com/acmesh-official/acme.sh> SSL证书签发脚本
