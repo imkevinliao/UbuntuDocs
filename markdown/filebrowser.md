@@ -16,6 +16,8 @@ sudo filebrowser -d /etc/filebrowser.db config set --address 0.0.0.0
 sudo filebrowser -d /etc/filebrowser.db config set --port 8888
 ```
 
+一键copy：`filebrowser -d /etc/filebrowser.db config init && filebrowser -d /etc/filebrowser.db config set --address 0.0.0.0 && filebrowser -d /etc/filebrowser.db config set --port 8888`
+
 此时已经可以使用了：filebrowser -d /etc/filebrowser.db （但请先不要使用，所有对filebrowser.db的修改都需要先关闭服务，所以这里请不要启动服务!!!）
 
 将filebrowser添加到守护进程中，随linux服务器自启：（我们不希望每次重启linux后，还要去重新手动启动filebrowser服务）
