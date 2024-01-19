@@ -1,6 +1,5 @@
 # Ubuntu-Docs
 文章教程：
-- [常规 综合](./其他.md)
 - [git](./markdown/git.md)
 - [Docker](./markdown/docker.md)
 - [FileBrowser 部署](./markdown/filebrowser.md)
