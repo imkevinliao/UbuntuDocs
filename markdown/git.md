@@ -14,7 +14,9 @@ git config --global alias.ci commit
 ```
 git 一键配置
 
-```git config --global alias.gp pull && git config --global alias.co checkout && git config --global alias.st status && git config --global alias.br branch && git config --global alias.ci commit && git config --global alias.lg "log --no-merges --color --graph --date=format:'%Y-%m-%d %H:%M:%S' --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Cblue %s %Cgreen(%cd) %C(bold blue)<%an>%Creset' --abbrev-commit"```
+```
+git config --global alias.gp pull && git config --global alias.co checkout && git config --global alias.st status && git config --global alias.br branch && git config --global alias.ci commit && git config --global alias.lg "log --no-merges --color --graph --date=format:'%Y-%m-%d %H:%M:%S' --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Cblue %s %Cgreen(%cd) %C(bold blue)<%an>%Creset' --abbrev-commit"
+```
 
 # git 服务器搭建
 1. 先切换 root 用户
