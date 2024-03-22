@@ -38,3 +38,13 @@ git config --global alias.gp pull && git config --global alias.co checkout && gi
 当然后续直接使用 root 进行后面的操作也是没有问题的，只是必须要记得把后面操作的所有文件的权限都改为 git，
 否则会出现权限相关的问题，所以建议操作完成后再禁止 shell 登录。
 
+# git 注意
+为项目单独配置用户名和邮箱
+```
+git config user.name imkevin && git config user.email imkevin
+```
+为所有项目配置用户名和邮箱
+```
+git config --global user.name imkevin && git config --global user.email imkevin
+```
+
