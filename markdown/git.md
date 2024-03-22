@@ -39,10 +39,14 @@ git config --global alias.gp pull && git config --global alias.co checkout && gi
 否则会出现权限相关的问题，所以建议操作完成后再禁止 shell 登录。
 
 # git 注意
-为项目单独配置用户名和邮箱
+为项目单独配置用户名和邮箱 (linux 使用 && | windows 使用 ;)
 ```
 git config user.name imkevin && git config user.email imkevin
 ```
+```
+git config user.name imkevin ; git config user.email imkevin 
+```
+
 为所有项目配置用户名和邮箱
 ```
 git config --global user.name imkevin && git config --global user.email imkevin
