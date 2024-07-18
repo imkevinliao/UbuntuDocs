@@ -1,5 +1,6 @@
 # Ubuntu-Docs
 文章教程：
+- [Shell 脚本合集](./markdown/shell.md)
 - [git](./markdown/git.md)
 - [Docker](./markdown/docker.md)
 - [FileBrowser 部署](./markdown/filebrowser.md)
