@@ -31,3 +31,5 @@
 * <https://sh.readthedocs.io/en/latest/>  pip install sh
 * <https://pypi.org/project/paramiko/> pip install paramiko
 * <https://github.com/fabric/fabric> pip install fabric
+* <https://pypi.org/project/psutil/> pip install psutil
+
