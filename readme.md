@@ -25,3 +25,9 @@
 - <https://github.com/liquanzhou/ops_doc> 运维手册
 - <https://github.com/jaywcjlove/linux-command> [linux 命令指导]
 - <https://github.com/me115/linuxtools_rst> [linux 教程 实例方式]
+
+# Python Replace Shell
+* <https://pypi.org/project/python-crontab/>  pip install python-crontab
+* <https://sh.readthedocs.io/en/latest/>  pip install sh
+* <https://pypi.org/project/paramiko/> pip install paramiko
+* <https://github.com/fabric/fabric> pip install fabric
