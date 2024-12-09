@@ -9,6 +9,7 @@
 # Docker
 - [使用 Docker 构建自己的镜像](./xray_docker/readme.md)
 - [Docker 笔记](./markdown/docker_note.md)
+- [docker-compose 笔记](./markdown/docker_compose.md)
 # 参考网站
 - <https://daemon369.github.io/linux/2018/01/06/01-get-disks-info-in-linux> [查看硬盘信息]
 - <https://blog.csdn.net/RHWRH/article/details/123926118> [shell 读取 cpu 占用率]
