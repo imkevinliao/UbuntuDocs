@@ -6,7 +6,7 @@
 2. https://github.com/mack-a/v2ray-agent
 
 # 一键部署
-注意：这个是需要使用 dockerfile 自己构建镜像容器，而不是直接 docker pull 拉取。
+注意：这个是需要使用 Dockerfile 自行构建镜像，而不是直接 docker pull 拉取。
 
 ```
 docker build -t xray . && docker run -d --name xray --restart=always -p 7333:443 -e SERVER_PORT=7123 xray && docker exec -it  xray cat /config_info.txt
