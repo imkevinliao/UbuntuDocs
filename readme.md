@@ -7,7 +7,8 @@
 - [Python 配置](./markdown/python.md)
 - [ssh](./markdown/ssh.md)
 - [ollama sillytavern 大模型](./markdown/ollama-sillytavern-deploy.md)
-
+# Docker
+[构建docker](./xray_docker/readme.md)
 # 参考网站
 - <https://daemon369.github.io/linux/2018/01/06/01-get-disks-info-in-linux> [查看硬盘信息]
 - <https://blog.csdn.net/RHWRH/article/details/123926118> [shell 读取 cpu 占用率]
