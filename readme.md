@@ -6,6 +6,7 @@
 - [Python 配置](./markdown/python.md)
 - [ssh](./markdown/ssh.md)
 - [ollama sillytavern 大模型](./markdown/ollama-sillytavern-deploy.md)
+- [AWS服务器部署](./markdown/aws部署.md) （注：不使用密钥的情况）
 # Docker
 - [使用 Docker 构建自己的镜像](./xray_docker/readme.md)
 - [Docker 笔记](./markdown/docker_note.md)
