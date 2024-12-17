@@ -1,7 +1,7 @@
 # 前言
 这个 Dockerfile 并不完美，但是可用，没有规划设计导致体验上存在问题
 
-参考了两位大佬的设计：
+借鉴了两位大佬：
 1. https://github.com/wulabing/xray_docker
 2. https://github.com/mack-a/v2ray-agent
 
