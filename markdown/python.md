@@ -134,6 +134,10 @@ python3-pip is already the newest version (9.0.1-2.3~ubuntu1.18.04.8)
 curl -sS https://bootstrap.pypa.io/get-pip.py | python3.10
 
 # PIP 源设置
+国外服务器可忽略
+
+阿里源：
+
 pip config set global.index-url http://mirrors.aliyun.com/pypi/simple/
 
 pip config set install.trusted-host mirrors.aliyun.com
